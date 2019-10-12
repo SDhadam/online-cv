@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: s.dhadam@gmail.com   
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: alandoe
-    github: SumitDhadam    
+    github: SDhadam    
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -41,11 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I like to do physical modeling and simulations.
 
       Second paragraph if required.
 
@@ -54,11 +50,7 @@ education:
       university: Ruhr University Bochum
       time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Solving physical problems using computer simulations.
 
           - Bullet point
           - Bullet point
@@ -77,9 +69,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Berechnungsinginer - Simulation Engineer
+      time: Oct-2018 - Oct-2019
+      company: HUF, Velbert
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
